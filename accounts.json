@@ -1,0 +1,6 @@
+{
+    "accounts":[
+        {"name": "kullaniciAdi", "password": "şifre"},
+        {"name": "kullaniciAdi", "password": "sifre"}
+    ]
+}
